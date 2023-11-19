@@ -2,6 +2,8 @@
 
 [FRONT](https://github.com/M1k1ta/chat_front-end)
 
+WebSocket DEMO: `wss://chat-back-end-4d30.onrender.com`
+
 ## Tehnologies
 - Node
 - Express
